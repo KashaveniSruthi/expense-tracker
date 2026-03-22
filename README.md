@@ -30,7 +30,7 @@ This application helps users record, manage, and track daily expenses through an
 
 ## Screenshot
 
-![expense tracker](extense tracker.png)
+![expense tracker](https://github.com/KashaveniSruthi/expense-tracker/blob/main/expense%20tracker.png)
 
 ---
 
@@ -38,7 +38,7 @@ This application helps users record, manage, and track daily expenses through an
 
 1. Clone the repository
 
-```git clone https://github.com/your-username/Expense-Tracker.git```
+``` https://github.com/your-username/Expense-Tracker.git```
 
 2. Navigate to project folder
 
