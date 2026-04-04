@@ -30,7 +30,7 @@ This application helps users record, manage, and track daily expenses through an
 
 ## Screenshot
 
-![expense_tracker](https://github.com/KashaveniSruthi/expense-tracker/blob/main/expense_trackor.png.png)
+![expense_tracker](https://github.com/KashaveniSruthi/expense-tracker/blob/main/expense_trackor.png)
 
 ---
 
