@@ -38,7 +38,7 @@ This application helps users record, manage, and track daily expenses through an
 
 1. Clone the repository
 
-``` https://github.com/your-username/Expense-Tracker.git```
+``` https://github.com/KashaveniSruthi/expense-tracker```
 
 2. Navigate to project folder
 
